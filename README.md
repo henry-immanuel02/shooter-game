@@ -4,8 +4,9 @@ Ini adalah contoh repositori
 #### Tekanan hidrostatik diformulasikan sebagai.
 
 $$\rho \times g \times h $$
-
+$$
 \begin{itemize}
 \item Hello
 \item Hai
 \end{itemize}
+$$
